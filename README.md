@@ -45,5 +45,14 @@ Sudoku is a Sudoku puzzle game built with Python and [pygame](https://www.pygame
 
 1. **Install Dependencies:**  
    Ensure you have Python 3.10+ and pygame installed. You can install pygame via pip:
+
    ```bash
    pip install pygame
+   ```
+
+1. **Run App**  
+   Run the game using Python:
+
+   ```bash
+   python3 main.py
+   ```
